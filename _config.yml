@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Página de Carlos Martínez para el curso del CEFIRE sobre Markdown
+title: Página de Carlos M. - Curso de Markdown (CEFIRE)
 email: martinez_cardom@gva.es
 description: >- # this means to ignore newlines until "baseurl:"
   Esta página se corresponde con la tarea n.º 4 del curso sobre Markdown organizado por el CEFIRE de València. En ella se emplean Jekyll, GitHub y plantillas para crear un sitio web donde alojar diferentes materiales docentes.
